@@ -105,6 +105,14 @@
         "aliases": [
           "github/willjgriff"
         ]
+      },
+      {
+        "username": "evalir",
+        "aliases": [
+          "github/evalir",
+          "discord/evalir",
+          "discourse/evalir"
+        ]
       }
     ],
     "repoIds": [
