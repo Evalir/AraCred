@@ -124,6 +124,12 @@
         "aliases": [
           "github/foo"
         ]
+      },
+      {
+        "username": "bar",
+        "aliases": [
+          "github/bar"
+        ]
       }
     ],
     "repoIds": [
