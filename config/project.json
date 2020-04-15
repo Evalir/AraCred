@@ -112,6 +112,12 @@
           "github/evalir",
           "discord/321092785921064961"
         ]
+      },
+      {
+        "username": "eval",
+        "aliases": [
+          "github/eval"
+        ]
       }
     ],
     "repoIds": [
