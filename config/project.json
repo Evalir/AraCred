@@ -130,6 +130,12 @@
         "aliases": [
           "github/bar"
         ]
+      },
+      {
+        "username": "eth",
+        "aliases": [
+          "github/chriseth"
+        ]
       }
     ],
     "repoIds": [
